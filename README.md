@@ -77,5 +77,5 @@ Actualmente en desarrollo.
 ---
 
 ## Contacto
-- LinkedIn: https://www.linkedin.com/in/tuusuario  
+- LinkedIn: Próximamente
 - Portafolio: Próximamente
