@@ -77,5 +77,5 @@ Actualmente en desarrollo.
 ---
 
 ## Contacto
-- LinkedIn: Próximamente
-- Portafolio: Próximamente
+[LinkedIn](https://www.linkedin.com/in/victor-nolasco-23ab333b9)
+
